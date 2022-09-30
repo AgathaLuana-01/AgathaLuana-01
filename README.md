@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo desenvolvimento Mobile usando Flutter e Firebase
 - 📫 Contatos:
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/A1gatha-luana-869a4613a/)](https://www.linkedin.com/in/A1gatha-luana-869a4613a/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ágatha-luana-869a4613a/)](https://www.linkedin.com/in/ágatha-luana-869a4613a/)
    [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agathaluana.ads@gmail.com)](mailto:agathaluana.ads@gmail.com)
     
 <div align="center">  
