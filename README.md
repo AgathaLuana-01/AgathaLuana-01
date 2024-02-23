@@ -1,7 +1,8 @@
 ### Oiii 👋
 
-- 🔭 Estagiei em um projeto de pesquisa mobile da LABRASOFT pelo IFBA e Computação Brasil (A serviços da Fundação de Apoio  à Pesquisa e à Extensão - FAPEX)
-- 🌱 Estou aprendendo desenvolvimento Mobile usando Flutter
+- 💛 Estagiando no Escavador, com foco em Mobile, usando React Native.
+- 🔭 Estagiei na Computação Brasil (A serviços da Fundação de Apoio  à Pesquisa e à Extensão - FAPEX), iniciando o projeto de pesquisa da LABRASOFT.
+- 🌱 Continuo desenvolvendo o projeto de pesquisa da LABRASOFT, que é um app de Rede Social, usando Flutter e SupaBase.
 - 📫 Contatos:
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ágatha-luana-869a4613a/)](https://www.linkedin.com/in/ágatha-luana-869a4613a/)
