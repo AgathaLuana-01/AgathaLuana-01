@@ -1,6 +1,6 @@
 ### Oiii 👋
 
-- 💛 Estagiando no Escavador, com foco em Mobile, usando React Native.
+- 💛 Estagiei no Escavador, com foco em Mobile, usando React Native.
 - 🔭 Estagiei na Computação Brasil (A serviços da Fundação de Apoio  à Pesquisa e à Extensão - FAPEX), iniciando o projeto de pesquisa da LABRASOFT.
 - 🌱 Continuo desenvolvendo o projeto de pesquisa da LABRASOFT, que é um app de Rede Social, usando Flutter e SupaBase.
 - 📫 Contatos:
